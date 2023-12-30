@@ -9,4 +9,4 @@ I am a front-end developer with entry-level experience in web development. I'm e
   
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amy9788)](https://github.com/anuraghazra/github-readme-stats)
+
