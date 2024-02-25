@@ -4,9 +4,13 @@
 ## 💻 About Me
 I am a front-end developer with entry-level experience in web development. I'm eager to learn and apply my skills to a variety of projects. I'm also passionate about learning back-end development and looking forward to be a full stack web developer.
 ## ✏️ Example of Works
-  <a href="https://amy9788.github.io/Sonic/">
-    1. Retail Website Featuring Headphones
-  </a>
+  <ol>
+    <li>
+      <a href="https://amy9788.github.io/Sonic/">
+        Retail Website Featuring Headphones
+      </a>
+    </li>
+  </ol>
 
 ## 🛠️ Languages and Tools
 <div style="background: #E9FAE3">
