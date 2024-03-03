@@ -6,7 +6,7 @@ I am a front-end developer with entry-level experience in web development. I'm e
 ## ✏️ Example of Works
   <ol>
     <li>
-      <a href="https://amy9788.github.io/Sonic/](https://github.com/Amy9788/Sonic">
+      <a href="[https://amy9788.github.io/Sonic/](https://github.com/Amy9788/Sonic](https://github.com/Amy9788/Sonic)">
         Retail Website Featuring Headphones
       </a>
     </li>
