@@ -32,5 +32,7 @@ I am a front-end developer with entry-level experience in web development. I'm e
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
   <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="c++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/bwks/vendor-icons-svg/blob/master/node-js-logo.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+
 </div>
 
